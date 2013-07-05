@@ -50,10 +50,15 @@ background-color:#0C6;
 position:relative;
 float:left;
 top:700px;
-right:-1200px;
+right:-790px;
 }
 div#top{
 	width:200px;
-	height:200px;
-	background:url(pic/download.jpg);
+	height:150px;
+	background:url(pic/download.jpg) -50px left no-repeat;
+}
+div#top-rigth{
+	width:200px;
+	height:150px;
+	background:url(pic/download2.jpg)-50px left no-repeat;
 }

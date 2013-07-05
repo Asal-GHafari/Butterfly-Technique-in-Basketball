@@ -14,7 +14,10 @@
 <div class="top-rigth"></div>
 <div class="top-rigth"></div>
 <div class="bottom-left"></div>
+<div class="bottom-left" id="top"></div>
+<div class="bottom-rigth" id="top-rigth"></div>
 <div class="bottom-rigth"></div>
+
 
 
 </div>
