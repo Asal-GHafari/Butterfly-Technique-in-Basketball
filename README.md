@@ -7,8 +7,7 @@ Game Butterfly-Technique-in-Basketball
 ## TECHNOLOGYS
 * [HTML5]
 * [CSS3]
-* [JavaScript]
-* [jQuery.js]
+
 
 #### v0.1 (Friday/05/2013)
   * Initialize
