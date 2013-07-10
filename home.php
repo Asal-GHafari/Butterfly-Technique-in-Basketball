@@ -9,13 +9,17 @@
 </head>
 
 <body>
-<div class="content">
-    <div class="top-left1"  id="bazikon"></div>
-    <div class="top-left2"  id="bazikon"></div>
-    <div class="top-rigth1" id="bazikon"></div>
-    <div class="top-rigth2" id="bazikon"></div>
-    <div class="bottom-left" id="bazikon"></div>
-    <div class="bottom-rigth" id="bazikon"></div>
-</div>
+    <div class="content">
+        <div class="Basketball-court">
+            <div class="bazikon" id="bazikon1">1</div>
+            <div class="bazikon" id="bazikon2">2 start</div><div class="bazikon" id="top1"><img src="pic/download.jpg" width="150" height="150"/></div>
+            <div class="bazikon" id="bazikon3">3</div>
+            <div class="bazikon" id="bazikon4">4</div>
+            <div class="bazikon" id="bazikon5">5</div>
+            <div class="bazikon" id="top2"><img src="pic/download.jpg" width="150" height="150"/></div>
+            <div class="bazikon" id="top3"><img src="pic/download2.jpg" width="150" height="150"/></div>
+            <div class="bazikon" id="bazikon6">6</div>
+       <div>
+    </div>
 </body>
 </html>
