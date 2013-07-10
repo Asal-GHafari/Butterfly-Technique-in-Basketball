@@ -4,7 +4,7 @@ Butterfly-Technique-in-Basketball
 * [Farzaneh GHafari `GHafari`](https://github.com/Asal-GHafari) Project Manager
 
 
-## TECHNOLOGYS
+## Technologies 
 * [HTML5]
 * [CSS3]
 * [jQuery]
