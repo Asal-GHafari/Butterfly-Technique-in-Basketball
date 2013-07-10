@@ -10,5 +10,8 @@ Game Butterfly-Technique-in-Basketball
 * [jQuery]
 
 
-#### v0.1 (Friday/05/2013)
+#### v0.1 (5/05/2013)
   * Initialize
+  
+#### v0.2 (11/05/2013)
+  * Best code
