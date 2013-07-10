@@ -1,4 +1,4 @@
-Game Butterfly-Technique-in-Basketball
+Butterfly-Technique-in-Basketball
 =================================
 
 * [Farzaneh GHafari `GHafari`](https://github.com/Asal-GHafari) Project Manager
