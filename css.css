@@ -2,7 +2,7 @@
 padding:0;
 margin:0;
 }
-div{ border:1px solid #00FF66;}
+div{ border:0px solid #00FF66;}
 
 div.content{	
 width:auto;
@@ -25,7 +25,7 @@ bottom:0;
 left:0;
 right:0;
 margin:auto;
-background-color:#FF0;
+background-color:#000;
 }
 
 div.bazikon{
