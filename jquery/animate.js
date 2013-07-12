@@ -14,7 +14,7 @@ $(function(){
 							 	$('div#bazikon3').animate({"top":"200px","left":"-400px"},"slow",function(){
 									$('div#bazikon4').animate({"top":"0","left":"-150px"},"slow");
 									$('div#bazikon6').animate({"top":"-400px","left":"0px"},"slow");
-									$('div#top2').animate({"top":"-170px","left":"220px"},"fast");
+									$('div#top2').animate({"top":"-170px","left":"220px"},"slow");
 									$('div#top2 img').attr("src", newSrcr).animate("fast");
 									$('div#top2').animate({"top":"10px","left":"0px"},"slow",function(){
 										$('div#bazikon3').animate({"top":"400px","left":"-980px"},"slow");
