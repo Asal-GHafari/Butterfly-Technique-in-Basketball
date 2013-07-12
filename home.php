@@ -12,7 +12,8 @@
     <div class="content">
         <div class="Basketball-court">
             <div class="bazikon" id="bazikon1">1</div>
-            <div class="bazikon" id="bazikon2">2 start</div><div class="bazikon" id="top1"><img src="pic/download.jpg" width="150" height="150"/></div>
+            <div class="bazikon" id="bazikon2">2 start</div>
+            <div class="bazikon" id="top1"><img src="pic/download.jpg" width="150" height="150"/></div>
             <div class="bazikon" id="bazikon3">3</div>
             <div class="bazikon" id="bazikon4">4</div>
             <div class="bazikon" id="bazikon5">5</div>
