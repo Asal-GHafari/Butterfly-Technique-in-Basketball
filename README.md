@@ -15,3 +15,8 @@ Butterfly-Technique-in-Basketball
   
 #### v0.2 (11/05/2013)
   * Best code
+
+#### v0.3 (21/05/2013)
+  *Fix some bugs.
+  *Dynamic Home and last project.
+  *Preview.
